@@ -139,7 +139,7 @@ knowledge-base-cms/
 ### Download and Extract
 ```bash
 # Clone or download the project
-git clone <repository-url> knowledge-base-cms
+git clone https://github.com/soikot-shahriaar/knowledge-base-cms
 cd knowledge-base-cms
 ```
 
